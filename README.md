@@ -22,9 +22,15 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Descrição
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Este repositório contém uma aplicação construída com NestJS, implementando um microserviço para gerenciamento de notificações. A aplicação foi desenvolvida com suporte ao Railway, um ambiente de desenvolvimento na nuvem, para gerenciamento de infraestrutura.
+
+## Funcionalidades
+- Envio de notificações para usuários.
+- Criação, edição e exclusão de notificações.
+- Listagem e busca de notificações por usuário.
+- Integração com outros microserviços (exemplo: microservice-user-api).
 
 ## Project setup
 
